@@ -1,5 +1,6 @@
 # SiamFormer
 Remote sensing images change  detection using the Siamese network combined with pure Swin Transformer.
+By:https://www.scientificbulletin.upb.ro/rev_docs_arhiva/full7a4_565762.pdf
 
 # Framework
 ![4bffbb5fdae612610ab96578b38f09b](https://github.com/user-attachments/assets/aed84108-0363-4b1b-b55c-d072d012ccc1)
